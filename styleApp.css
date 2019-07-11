@@ -84,3 +84,35 @@ padding:10px 20px;
 }
 
 
+.text span3{
+    position:absolute;
+    top:0;
+    right:9%;
+    padding:10px 20px;
+    color:rgb(255, 255, 255);
+    font-family: Snell Roundhand, cursive;
+    font-size:20px;
+   
+}
+
+.text span4{
+    position:absolute;
+    top:0;
+    right:17%;
+    padding:10px 20px;
+    color:rgb(255, 255, 255);
+    font-family: Snell Roundhand, cursive;
+    font-size:20px;
+   
+}
+
+.text span5{
+    position:absolute;
+    top:0;
+    right:23%;
+    color:rgb(255, 255, 255);
+    font-family: Snell Roundhand, cursive;
+    font-size:20px;
+    padding:10px 20px;
+    
+}
