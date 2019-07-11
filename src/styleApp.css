@@ -8,6 +8,7 @@
     'n'
     'c';
     grid-template-rows: 100px ;
+    
 }
 
 .header{
@@ -35,11 +36,12 @@ padding:10px 20px;
     position: margin;
     top: 0;
     left: 0;
+   
 }
 
 .text span{
     color: rgb(255, 255, 255);
-    padding: 24px 0px 24px 0px;
+    padding: 24px 10px 24px 10px;
     font-size: 68px;
     font-family: 'Open Sans',Arial,sans-serif;
     text-align: center;
@@ -114,4 +116,70 @@ padding:10px 20px;
     font-size:20px;
     padding:10px 20px;
     
+}
+
+.text img{
+    position:absolute;
+    padding:10px 20px;
+    width: 7%;
+    top: 180%;
+    left: 10%;
+}
+
+.text h{
+    position:absolute;
+    padding:10px 20px;
+    width: 10%;
+    top: 198%;
+    left: 8%;
+    font-family: 'Open Sans',Arial,sans-serif;
+    font-weight: 300;
+    color: #000;
+    line-height: 1.55;
+    font-size: 16px;
+    text-align: center;
+}
+
+.phone img{
+    position:absolute;
+    padding:10px 20px;
+    width: 7%;
+    top: 180%;
+    left: 40%;
+}
+
+.phone h1{
+    position:absolute;
+    padding:10px 20px;
+    width: 10%;
+    top: 198%;
+    left: 39%;
+    font-family: 'Open Sans',Arial,sans-serif;
+    font-weight: 300;
+    color: #000;
+    line-height: 1.55;
+    font-size: 16px;
+    text-align: center;
+}
+
+.rezhim img{
+    position:absolute;
+    padding:10px 20px;
+    width: 7%;
+    top: 180%;
+    left: 70%;
+}
+
+.rezhim h2{
+    position:absolute;
+    padding:10px 20px;
+    width: 9%;
+    top: 198%;
+    left: 70%;
+    font-family: 'Open Sans',Arial,sans-serif;
+    font-weight: 300;
+    color: #000;
+    line-height: 1.55;
+    font-size: 16px;
+    text-align: center;
 }
