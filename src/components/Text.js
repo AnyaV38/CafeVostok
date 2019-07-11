@@ -9,6 +9,8 @@ const Text = ()=> {
             <span3>Новости</span3>
             <span4>Меню</span4>
             <span5>О кафе</span5>
+            <img src='https://static.tildacdn.com/tild3433-3734-4564-a334-326431653130/icsArtboard1copy2.svg' alt=""></img>
+            <h>с.Красногорское, ул.Школьная,2</h>
             </text>
     )
 }
