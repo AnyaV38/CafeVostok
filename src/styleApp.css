@@ -183,3 +183,143 @@ padding:10px 20px;
     font-size: 16px;
     text-align: center;
 }
+
+.text h1{
+    color: rgb(0, 0, 0);
+    padding: 20px 5px 20px 5px;
+    font-size: 51px;
+    font-family: 'Open Sans',Arial,sans-serif;
+    text-align: center;
+    position: absolute;
+    line-height: 1.2;
+    transition-delay: 0s;
+    letter-spacing: 1px;
+    box-sizing: content-box; 
+    display: block; 
+    top: 220%;
+    
+}
+
+.photo a {
+    position: absolute;
+    padding:380px 0px;
+    width: 100%;
+    top: 220%;
+    left: 0;
+}
+
+.text h2{
+    color: rgb(0, 0, 0);
+    padding: 20px 5px 20px 5px;
+    font-size: 40px;
+    font-family: 'Open Sans',Arial,sans-serif;
+    text-align: center;
+    position: absolute;
+    line-height: 1.1;
+    transition-delay: 0s;
+    letter-spacing: 1px;
+    box-sizing: content-box; 
+    display: block; 
+    top: 365%;
+    
+}
+
+.photo b {
+    position: absolute;
+    padding:380px 0px;
+    width: 100%;
+    top: 335%;
+    left: 0;
+}
+
+.photo c {
+    position: absolute;
+    padding:380px 100px;
+    width: 25%;
+    top: 680%;
+    left: 30%;
+}
+
+.text p{
+    color: rgb(0, 0, 0);
+    padding: 200px 465px 200px 465px;
+    font-size: 40px;
+    font-family: 'Open Sans',Arial,sans-serif;
+    text-align: center;
+    position: absolute;
+    line-height: 1.1;
+    letter-spacing: 3px; 
+    top: 760%;
+    display: block; 
+    box-sizing: content-box; 
+}
+
+.text p1{
+    color: rgb(0, 0, 0);
+    padding: 180px 465px 180px 485px;
+    font-size: 25px;
+    font-family: 'Open Sans',Arial,sans-serif;
+    text-align: center;
+    position: absolute;
+    line-height: 1.1;
+    display: block; 
+    box-sizing: content-box;
+    letter-spacing: 2px; 
+    top: 780%;
+   
+}
+
+.text p2{
+    color: rgb(0, 0, 0);
+    padding: 70px 20px 70px 2px;
+    font-size: 35px;
+    font-family: 'Open Sans',Arial,sans-serif;
+    text-align: center;
+    position: absolute;
+    line-height: 1.3;
+    display: block; 
+    box-sizing: content-box;
+    letter-spacing: 3px; 
+    top: 810%;
+   
+}
+
+.text p3{
+    color: rgb(0, 0, 0);
+    padding: 100px 400px 100px 425px;
+    font-size: 51px;
+    font-family: 'Open Sans',Arial,sans-serif;
+    text-align: center;
+    position: absolute;
+    line-height: 1.3;
+    transition-delay: 0s;
+    letter-spacing: 3px;
+    box-sizing: content-box; 
+    display: block; 
+    top: 850%;
+    
+}
+
+.text p4{
+    color: rgb(0, 0, 0);
+    padding: 20px 5px 20px 5px;
+    font-size: 37px;
+    font-family: 'Open Sans',Arial,sans-serif;
+    text-align: center;
+    position: absolute;
+    line-height: 1.3;
+    transition-delay: 0s;
+    letter-spacing: 3px;
+    box-sizing: content-box; 
+    display: block; 
+    top: 885%;
+    
+}
+
+.photo d {
+    position: absolute;
+    padding:380px 0px;
+    width: 100%;
+    top: 880%;
+    left: 0;
+}
